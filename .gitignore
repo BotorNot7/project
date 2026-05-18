@@ -2,10 +2,5 @@
 *.rar
 *.7z
 
-*.safetensors
-*.pt
-*.pth
-*.bin
 
-checkpoint-*/
-ai_human_detector/
+
